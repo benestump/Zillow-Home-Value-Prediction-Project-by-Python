@@ -26,3 +26,5 @@ and it is recorded in the transactions file train.csv. In this competition, you 
 
 #### Data fields
 - Please refer to zillow_data_dictionary.xlsx
+
+- modified
